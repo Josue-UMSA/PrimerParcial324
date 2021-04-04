@@ -19,7 +19,7 @@ if (isset($_POST['login'])) {
                 </div>';
         $res[1]=false;
     } else {
-        if ($password == $usr[2]) {
+        if (password_verify($password,$usr[2])) {
             $_SESSION['ci'] = $usr[0];
             $_SESSION['usr'] = $usr[1];
             $_SESSION['rol'] = $usr[3];
