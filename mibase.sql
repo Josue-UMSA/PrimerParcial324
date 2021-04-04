@@ -50,16 +50,16 @@ insert into Persona(ci,nombre_completo,fecha_de_nacimiento,departamento) values
 ('36811','JESUS POVEDA','1979-05-31','02');
 
 insert into USUARIO(ci,usuario,password,rol,tema) values
-('69794','PVICARIO','PVICARIO','R02',0),
-('80672','AJULIAN','AJULIAN','R02',0),
-('66542','SMARTI','SMARTI','R02',0),
-('70539','JCABEZA','JCABEZA','R02',0),
-('15950','ACARDOSO','ACARDOSO','R02',0),
-('88344','MOVIEDO','MOVIEDO','R02',0),
-('55904','VGASPAR','VGASPAR','R02',0),
-('14394','ISANTOS','ISANTOS','R02',0),
-('75289','MPILAR','MPILAR','R01',0),
-('36811','JPOVEDA','JPOVEDA','R01',0);
+('14394', 'ISANTOS', '$2y$10$NJPtpZI2O4TztTi//DvG.eSHNb2GJuMCvuOJ88ltBoz5iopPRJ2ai', 'R02', 0),
+('15950', 'ACARDOSO', '$2y$10$PCmsU.QHtEQc72DWTjrkBuwia3lor3TuNit4.01PGT8wNH0NaP/oy', 'R02', 0),
+('36811', 'JPOVEDA', '$2y$10$6XBgfRr1BNcflsfH7zCVU.72JqoYSxC2plrMhYKFy6NVQSdhtlOE.', 'R01', 2),
+('55904', 'VGASPAR', '$2y$10$iDHDST.kefIDbzRMZwx2Wu.kbhOQW9Uw.9zF4lLASLL76tcOGvYlq', 'R02', 0),
+('66542', 'SMARTI', '$2y$10$NzX3SkXITz5W50NBn6.OCu1RjnmPf3NxRxSoHljQ.o1WlnijqH.mG', 'R02', 0),
+('69794', 'PVICARIO', '$2y$10$JYmtJo2PIs5XMeMljIyjv.l9W5U6.cqMnxdcfKGaovWDS0YmJxGNK', 'R02', 0),
+('70539', 'JCABEZA', '$2y$10$gBDFId8CPpd9d0V7wiFXPei1HdezXl2/YWdArUiWtlc3fdjoYltDq', 'R02', 0),
+('75289', 'MPILAR', '$2y$10$XAlpR0Fo/SJM2PuIns8XFuoIKnZRVnc0Wfsg0AX4uf2y5OLsyUqtW', 'R01', 0),
+('80672', 'AJULIAN', '$2y$10$KxQTOYm5IRrcdg.ZnmVE0OtgS2znQIffa0Wp.CQOrCvKh2f.pOop.', 'R02', 0),
+('88344', 'MOVIEDO', '$2y$10$kS742EUnnl20mviATUbnJOAt3u4put8lMdUiTfWRL3Sk75dC17g5S', 'R02', 0);
                     
 insert into NOTA(ci,sigla,nota1,nota2,nota3) values
 ('69794','INF282',52,70,48),
