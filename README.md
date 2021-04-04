@@ -1,6 +1,6 @@
 # Primer Parcial INF324
 
-# Usuario  Contraseña
+	Usuario  Contraseña
 # PVICARIO	PVICARIO
 # AJULIAN	AJULIAN
 # SMARTI	SMARTI
