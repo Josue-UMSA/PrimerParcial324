@@ -10,7 +10,7 @@
 	VGASPAR	VGASPAR
 	ISANTOS	ISANTOS
 
-# Administradores Contraseña
-# MPILAR	MPILAR
-# JPOVEDA	JPOVEDA
+	Administradores Contraseña
+	MPILAR	MPILAR
+	JPOVEDA	JPOVEDA
 
