@@ -1,6 +1,7 @@
 # Primer Parcial INF324
 
 	Usuario  Contraseña
+	
 	PVICARIO PVICARIO
  	AJULIAN	AJULIAN
 	SMARTI	SMARTI
@@ -10,7 +11,8 @@
 	VGASPAR	VGASPAR
 	ISANTOS	ISANTOS
 
-	Administradores Contraseña
+	Docentes Contraseña
+	
 	MPILAR	MPILAR
 	JPOVEDA	JPOVEDA
 
