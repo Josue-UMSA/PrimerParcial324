@@ -12,6 +12,6 @@
   <script src="http://localhost/PrimerParcial324/js/jquery.min.js"></script>
   <script src="http://localhost/PrimerParcial324/js/popper.min.js"></script>
   <script src="http://localhost/PrimerParcial324/js/bootstrap.min.js"></script>
-  <script src="http://localhost/PrimerParcial324/js/logout.js"></script>
+  <script src="http://localhost/PrimerParcial324/login/logout.js"></script>
 
 
