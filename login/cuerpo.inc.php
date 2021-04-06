@@ -23,7 +23,7 @@
                         	
                         </div>
 				       <div class="modal-footer">
-				        <a type="button" class="btn btn-warning" href="index.php"> Volver </a>
+				        <a type="button" class="btn btn-warning" href="http://localhost/PrimerParcial324/index.php"> Volver </a>
 				        <button type="submit" class="btn btn-info" name="btn" value="Guardar"> Ingresar <i class="fas fa-sign-in-alt"></i></button>
 				       </div>
 				    </form>
