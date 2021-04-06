@@ -5,7 +5,7 @@ if (isset($_SESSION['usr'])):
 	include 'cuerpo.inc.php';
 	include '../parciales/footer1.inc.php';
 ?>
-	<script src="../js/tema.js"></script>
+	<script src="tema.js"></script>
 <?php else: 
 	header('http://localhost/PrimerParcial324/');
 	 endif; 
